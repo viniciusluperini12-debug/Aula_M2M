@@ -4,7 +4,7 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266HTTPClient.h>
 
-// ======== CONFIGURE AQUI ========
+// ======== CONFIGURE AQUI ======== Codigo alterado via AWS
 const char* WIFI_SSID  = "Convidado iot";
 const char* WIFI_SENHA = "mescla@1417";
 const char* PROXIMO_IP = "192.168.1.105";   // IP do próximo aluno (o último aponta para o Aluno 1)
